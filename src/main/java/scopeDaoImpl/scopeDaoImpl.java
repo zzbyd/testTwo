@@ -1,5 +1,5 @@
 package scopeDaoImpl;
-
+//525252
 import org.springframework.stereotype.Repository;
 
 /**
